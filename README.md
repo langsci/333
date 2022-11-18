@@ -1,7 +1,7 @@
 # Language assessment in multilingual settings: Innovative practices across formal and informal environments
 
 ## Publication Info
-- Authors: Rosita L. Rivera and Eva Rodríguez-González
+- Editors: Eva Rodríguez-González & Rosita L. Rivera
 - Publication Date: 2022
 - Series: Current Issues in Bilingualism
 
